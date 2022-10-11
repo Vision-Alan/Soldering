@@ -1,0 +1,11 @@
+names:
+- solder_hole
+- solder_tip
+- solder_short
+- solder_bead
+- solder_skip
+- solder_miss
+- normal
+nc: 7
+train: "/home/alan/\u6587\u4EF6/AI/YOLOv4_AIA_Soldering_A20725/Soldering_train/images"
+val: "/home/alan/\u6587\u4EF6/AI/YOLOv4_AIA_Soldering_A20725/Soldering_valid/images"
